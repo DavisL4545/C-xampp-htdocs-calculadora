@@ -1,0 +1,16 @@
+
+        a{
+            text-decoration: none;
+            color:black
+            font-weight; bold:
+            font-family: 'franklin gothic medium', 'arial narrow', Arial, sans-serif;
+            font-size: 25px;
+        }
+        a:hover{
+            color:cyan;
+        }
+        ul,li{
+            list-style: none;
+            display: inline;
+
+        } 
